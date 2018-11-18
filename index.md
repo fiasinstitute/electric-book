@@ -11,7 +11,7 @@ This is the online reading platform of the open access publisher Vodary Paris. I
 
 {% include metadata %}
 {% if output-docs == true %}
-[Read the docs]({{ site.baseurl }}/docs)
+[To the main site]({{ site.baseurl }})
 {:.button}
 {% endif %}
 
