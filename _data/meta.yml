@@ -11,15 +11,15 @@ project:
   # The default contact email address
   email: "electricbook.vodary@fias.fr"
   # The name of the project of books in this folder.
-  name: "Vodary Paris reading platform"
+  name: "Éditions Vodary Paris"
   # A one-liner about this project. Useful for Open Graph metadata.
   description: "Online reading platform of the open access publisher Vodary Paris."
   # The logo of the organisation, saved web-ready in /assets
-  logo: "publisher-logo.jpg"
+  logo: "https://vodary.fias.fr/assets/img/Logo.svg"
   # An image in /assets that stands for the project
   image: "cover.jpg"
   # Credit line, by default in the footer, overidden in locales.yml
-  credit: "ⓒ Éditions Vodary Paris recurs to the [Electric Book](http://electricbook.works) workflow in rendering its books online."
+  credit: "Éditions Vodary Paris recurs to the [Electric Book workflow](http://electricbook.works) to render its books."
   # Primary language code for this project as a whole
   language: "en"
   # App bundle ID unique across all app stores
