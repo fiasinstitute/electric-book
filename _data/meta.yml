@@ -17,7 +17,7 @@ project:
   # The logo of the organisation, saved web-ready in /assets
   logo: "Logo.png"
   # An image in /assets that stands for the project
-  image: "cover.jpg"
+  image: "Malthus_frontcover.jpg"
   # Credit line, by default in the footer, overidden in locales.yml
   credit: "[Éditions Vodary Paris](https://vodary.fias.fr) recurs to the [Electric Book workflow](http://electricbook.works) to render its books."
   # Primary language code for this project as a whole
