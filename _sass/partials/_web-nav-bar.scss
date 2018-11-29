@@ -150,7 +150,7 @@ $nav-bar-back-button-hide: false !default;
                         width: 100%; // extend right to edge
                     }
                     &.active { // The active page
-                        background-color: $nav-bar-parent-text-color;//$nav-bar-child-hover-color;
+                        background-color: $nav-bar-child-hover-color;
                         width: 100%; // extend right to edge
                         a {
                             color: $nav-bar-parent-text-color;//$nav-bar-child-text-hover-color;
@@ -187,7 +187,7 @@ $nav-bar-back-button-hide: false !default;
                             }
                         }
                         &:hover, &:focus, &:active {
-                            color: $nav-bar-child-text-hover-color;
+                            color: $nav-bar-child-text-color;//$nav-bar-child-text-hover-color;
                             background-color: $nav-bar-child-hover-color;
                             width: 100%; // extend right to edge
                         }
