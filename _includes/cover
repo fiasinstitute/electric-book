@@ -14,6 +14,7 @@ Adjust HTML based on output format.
 * For other outputs use just the image.
 {% endcomment %}
 
+{% comment %}
 {% if site.output == "web" %}
 
 {% assign image-filetype = image | split: "." %}
@@ -43,3 +44,6 @@ Adjust HTML based on output format.
 <p class="cover"><img src="{{ images }}/{{ image }}" alt="{{ title }}" class="cover"></p>
 
 {% endif %}
+{% endcomment %}
+
+<p class="cover"><img src="{{ images }}/{{ image }}" alt="{{ title }}" class="cover"></p>
