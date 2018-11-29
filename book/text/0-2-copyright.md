@@ -22,6 +22,9 @@ Layout: {{ publisher }}
 
 [See the full description on the publisher's site]({{ publisher-url }})
 
+# Back cover
+
+![](../images/web/backcover.jpg)
 
 
 {% include identifiers scheme="ISBN" %}
