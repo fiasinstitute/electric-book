@@ -5,7 +5,7 @@ style: home
 
 # Éditions Vodary Paris
 
-This is the online reading platform of the open access publisher Vodary Paris. It hosts website versions of its books.
+This is the online reading platform of the open access publisher Vodary Paris. It hosts website versions of its books. Éditions Vodary Paris](https://vodary.fias.fr) recurs to the [Electric Book workflow](http://electricbook.works) to render its books.
 
 - an [almost blank book](book/text/0-3-contents.html) to work into.
 
