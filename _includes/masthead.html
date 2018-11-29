@@ -4,9 +4,10 @@
 {% if is-book-subdirectory != true %}
 
     <ul>
-        <li class="masthead-project-name"><a href="{{ path-to-root-directory }}index.html">{{ project-name }}</a></li>
+        <li class="masthead-project-name"><a href="{{ masthead-contents-page }}">{{ project-name }}</a></li>
     </ul>
 
+    {% comment %}{{ path-to-root-directory }}index.html{% endcomment %}
     <div class="controls">
 
         {% if site.output == "web" and build == "development" and site.data.settings.web.annotator.development == true %}
