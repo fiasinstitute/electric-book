@@ -24,7 +24,7 @@ $web-masthead: true !default;
             min-height: $line-height-default;
             padding: 0.5em 0;
             li {
-                display: none; // hide masthead breadcrumbs as mobile-first default
+                //display: none; // hide masthead breadcrumbs as mobile-first default
                 @media only screen and (min-width: $max-width-default) {
                     display: inline-block;
                     margin: 0 0.25em 0 0;
