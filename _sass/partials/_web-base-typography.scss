@@ -111,7 +111,7 @@ $web-base-typography: true !default;
             content: $text-divider;
         }
         & + p {
-            //text-indent: 0;
+            text-indent: 0;
         }
     }
 
@@ -180,7 +180,7 @@ $web-base-typography: true !default;
     @if $spaced-paras {
         p, p + p {
             margin-bottom: $line-height-default;
-            text-indent: 0;
+            //text-indent: 0;
         }
         ul ul, ol ol, blockquote ul ul, blockquote ol ol {
             margin-bottom: $line-height-default;
