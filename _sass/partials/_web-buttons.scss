@@ -47,7 +47,7 @@ $web-buttons: true !default;
 		a {
 			display: inline-block;
 			font-family: $font-text-secondary;
-			color: $color-background;
+			color: $nav-bar-parent-text-color;//$color-background;
 			background-color: $color-buttons;
 			padding: 0.5em;
 			margin: $line-height-default 0;
