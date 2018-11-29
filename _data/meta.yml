@@ -19,7 +19,7 @@ project:
   # An image in /assets that stands for the project
   image: "Malthus_frontcover.jpg"
   # Credit line, by default in the footer, overidden in locales.yml
-  credit: "Online reading platform of the publisher [Éditions Vodary Paris](https://vodary.fias.fr)"
+  credit: "[Vodary Paris](https://vodary.fias.fr), online reading platform"
   # Primary language code for this project as a whole
   language: "en"
   # App bundle ID unique across all app stores
