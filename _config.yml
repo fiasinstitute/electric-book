@@ -62,7 +62,7 @@ repository: ""
 # nav is more powerful, and allows submenu nesting;
 # files is quicker, because you don't have to create nav yaml,
 # only a files list.
-nav-source: nav
+nav-source: files
 
 # MathJax
 # -------
