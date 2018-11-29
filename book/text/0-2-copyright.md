@@ -13,6 +13,7 @@ style: copyright-page
 
 *{{ title }}*\\
 Text: {{ creator }}
+
 Layout: {{ publisher }}
 
 # Description
