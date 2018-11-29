@@ -145,7 +145,7 @@ $nav-bar-back-button-hide: false !default;
                         }
                     }
                     &:hover, &:focus, &:active { // Hovered, focused, tapped on touchscreen
-                        color: $nav-bar-parent-text-hover-color;
+                        color: $nav-bar-parent-text-color;//$nav-bar-parent-text-hover-color;
                         background-color: $nav-bar-parent-hover-color;
                         width: 100%; // extend right to edge
                     }
