@@ -8,11 +8,20 @@ style: copyright-page
 
 {% include metadata %}
 
-# Copyright
+# Rights
 {:.non-printing}
 
 *{{ title }}*\\
-Text © {{ creator }}
+Text: {{ creator }}
+Layout: {{ publisher }}
+
+# Description
+
+{{ description }}
+
+[See the full description on the publisher's site]({{ publisher-url }})
+
+
 
 {% include identifiers scheme="ISBN" %}
 
