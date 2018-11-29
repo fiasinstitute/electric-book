@@ -5,4 +5,4 @@ style: cover
 
 {% include cover %}
 
-![](backcover.jpg)
+![](images/web/backcover.jpg)
