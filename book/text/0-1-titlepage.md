@@ -16,3 +16,4 @@ style: title-page
 
 {{ publisher }}
 {:.title-page-publisher}
+![](../../publisherlogo.png)
