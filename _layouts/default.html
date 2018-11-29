@@ -15,7 +15,9 @@ layout: compress
 {% include head.html %}
 {% include masthead.html %}
 {% include nav-button.html %}
-{% include nav.html %}
+{% if site.output == "web" and site.data.settings.web.pagination == true %}
+{% include pagination %}
+{% endif %}
 {% include start-content.html %}
 {{ content }}
 {% include close-content.html %}
