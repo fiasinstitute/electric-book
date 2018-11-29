@@ -145,16 +145,16 @@ $nav-bar-back-button-hide: false !default;
                         }
                     }
                     &:hover, &:focus, &:active { // Hovered, focused, tapped on touchscreen
-                        color: $nav-bar-parent-text-color;//$nav-bar-parent-text-hover-color;
+                        color: $nav-bar-parent-text-hover-color;
                         background-color: $nav-bar-parent-hover-color;
                         width: 100%; // extend right to edge
-                        font-weight: bold;
                     }
                     &.active { // The active page
                         background-color: $nav-bar-child-hover-color;
                         width: 100%; // extend right to edge
                         a {
-                            color: $nav-bar-child-text-hover-color;
+                            color: $nav-bar-parent-text-color;//$nav-bar-child-text-hover-color;
+                            font-weight: bold;
                         }
                         li {
                             a {
