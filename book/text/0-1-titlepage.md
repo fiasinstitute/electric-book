@@ -11,6 +11,9 @@ style: title-page
 {{ subtitle }}
 {:.title-page-subtitle}
 
+{{ description }}
+{:.title-page-subtitle}
+
 {{ creator }}
 {:.title-page-author}
 
