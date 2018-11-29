@@ -28,4 +28,4 @@ Layout: {{ publisher }}
 
 # Back cover
 
-![](../images/web/backcover.jpg)
+<p class="cover"><img src="../images/web/backcover.jpg" alt="{{ title }}" class="cover"></p>
