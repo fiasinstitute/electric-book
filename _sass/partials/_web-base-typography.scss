@@ -47,6 +47,8 @@ $web-base-typography: true !default;
         font-weight: inherit;
     }
     p {
+        text-indent: $line-height-default*1.33;
+        text-align: justify;
         margin: 0;
         & + p {
             text-indent: $line-height-default;
