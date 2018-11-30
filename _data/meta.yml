@@ -99,7 +99,7 @@ works:
                 file: "0-1-titlepage"
               - label: "Copyright"
                 file: "0-2-copyright"
-              - label: "De auctore"
+              - label: "Author"
                 file: "0-4-de-auctore"
           - label: "Contents"
             file: "0-3-contents"
