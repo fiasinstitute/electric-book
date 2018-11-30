@@ -2,9 +2,9 @@
 title: "De auctore"
 ---
 
-**Malthus** apud Scientiam Rerum — De principio populationis dissertatio.
+<div style="text-align:center"><strong>Malthus</strong> apud Scientiam Rerum — De principio populationis dissertatio.</div>
 
-# De auctore
+<div style="text-align:center"><h1>De auctore</h1></div>
 
 **Thomas Robertus Malthus** fuit oeconomicus Anglicus, qui in oeconomia
 politica excogitanda superincolationem putavit causam famis et
