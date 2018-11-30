@@ -215,6 +215,8 @@ $web-reset-sequences: true !default; // This should stay last in the @import lis
 
 // ----------------------------------------------------
 // Import font files (@font-face) for fonts you specify
+$print-font-faces: true !default;
+@import "partials/print-font-faces";
 // ----------------------------------------------------
 
 // Import fonts from book-specific CSS.
