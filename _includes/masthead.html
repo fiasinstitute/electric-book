@@ -33,11 +33,11 @@
 
         <ul>
             {% if number-of-works == 1 %}
-                <li class="masthead-book-title"><a href="{{ path-to-root-directory }}index.html">{{ title }}</a></li>
+                <li class="masthead-book-title"><a href="{{ path-to-root-directory }}index.html">{{ title }}111</a></li>
                 {% include breadcrumbs breadcrumb-tree=breadcrumb-nav-tree %}
             {% else %}
-                <li class="masthead-project-name"><a href="{{ path-to-root-directory }}index.html">{{ project-name }}</a></li>
-                <li class="masthead-book-title"><a href="{{ masthead-contents-page }}{% unless masthead-contents-page contains '.html' %}.html{% endunless %}">{{ title }}</a></li>
+                <li class="masthead-project-name"><a href="{{ path-to-root-directory }}index.html">{{ project-name }}111</a></li>
+                <li class="masthead-book-title"><a href="{{ masthead-contents-page }}{% unless masthead-contents-page contains '.html' %}.html{% endunless %}">{{ title }}112</a></li>
                 {% include breadcrumbs breadcrumb-tree=breadcrumb-nav-tree %}
             {% endif %}
         </ul>
@@ -45,17 +45,17 @@
     {% elsif site.data.settings.[output-format].masthead.content == "project-name" %}
 
         <ul>
-            <li class="masthead-project-name"><a href="{{ path-to-root-directory }}index.html">{{ project-name }}</a></li>
+            <li class="masthead-project-name"><a href="{{ path-to-root-directory }}index.html">{{ project-name }}222</a></li>
         </ul>
 
     {% elsif site.data.settings.[output-format].masthead.content == "page-title" %}
 
         <ul>
             {% if number-of-works == 1 %}
-                <li class="masthead-book-title"><a href="{{ path-to-root-directory }}index.html">{{ title }}</a></li>
+                <li class="masthead-book-title"><a href="{{ path-to-root-directory }}index.html">{{ title }}333</a></li>
             {% else %}
-                <li class="masthead-project-name"><a href="{{ path-to-root-directory }}index.html">{{ project-name }}</a></li>
-                <li class="masthead-book-title"><a href="{{ masthead-contents-page }}{% unless masthead-contents-page contains '.html' %}.html{% endunless %}">{{ title }}</a></li>
+                <li class="masthead-project-name"><a href="{{ path-to-root-directory }}index.html">{{ project-name }}334</a></li>
+                <li class="masthead-book-title"><a href="{{ masthead-contents-page }}{% unless masthead-contents-page contains '.html' %}.html{% endunless %}">{{ title }}335</a></li>
                 <li class="masthead-page-title">{{ page.title }}</li>
             {% endif %}
         </ul>
@@ -65,10 +65,10 @@
 
         <ul>
             {% if number-of-works == 1 %}
-                <li class="masthead-book-title"><a href="{{ path-to-root-directory }}index.html">{{ title }}</a></li>
+                <li class="masthead-book-title"><a href="{{ path-to-root-directory }}index.html">{{ title }}444</a></li>
             {% else %}
-                <li class="masthead-project-name"><a href="{{ path-to-root-directory }}index.html">{{ project-name }}</a></li>
-                <li class="masthead-book-title"><a href="{{ masthead-contents-page }}{% unless masthead-contents-page contains '.html' %}.html{% endunless %}">{{ title }}</a></li>
+                <li class="masthead-project-name"><a href="{{ path-to-root-directory }}index.html">{{ project-name }}445</a></li>
+                <li class="masthead-book-title"><a href="{{ masthead-contents-page }}{% unless masthead-contents-page contains '.html' %}.html{% endunless %}">{{ title }}446</a></li>
             {% endif %}
         </ul>
 
