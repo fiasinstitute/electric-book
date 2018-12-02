@@ -1,17 +1,18 @@
----
-# Jekyll processes this file to generate the array of URLs.
-# Then the output script passes this to phantomjs,
-# which generates the search index as search-index.js.
-layout: null
----
 
-{% comment %} Get the URLs to include in the index {% endcomment %}
-{% include files-listed.html %}
 
-var urls = [{% for url in array-of-files %}'../..{{ url }}'{% unless forloop.last %},{% endunless %}{% endfor %}]
 
-{% comment %} From here, the Javascript that tells
-phantomjs how to generate a search index. {% endcomment %}
+
+
+
+
+
+
+
+
+
+var urls = ['../../malthus/text/index.html','../../malthus/text/0-1-titlepage.html','../../malthus/text/0-2-copyright.html','../../malthus/text/0-4-de-auctore.html','../../malthus/text/0-3-contents.html','../../malthus/text/xx03.html','../../malthus/text/xx04.html','../../malthus/text/xx05.html','../../malthus/text/xx06.html','../../malthus/text/xx07.html','../../malthus/text/xx08.html','../../malthus/text/xx09.html','../../malthus/text/xx10.html','../../malthus/text/xx11.html','../../malthus/text/xx12.html','../../malthus/text/xx13.html','../../malthus/text/xx14.html','../../malthus/text/xx15.html','../../malthus/text/xx16.html','../../malthus/text/xx17.html','../../malthus/text/xx18.html','../../malthus/text/xx19.html','../../malthus/text/xx20.html','../../malthus/text/xx21.html','../../malthus/text/xx22.html','../../malthus/text/xx23.html','../../malthus/text/xx24.html']
+
+
 
 var fs = require('fs');
 var page = require('webpage').create();
