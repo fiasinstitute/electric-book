@@ -1,0 +1,6 @@
+{% include metadata %}
+
+{% comment %}Assign the default image filename to image{% endcomment %}
+{% assign image = "cover.jpg" %}
+
+<p class="cover"><img src="{{ images }}/{{ image }}" alt="{{ title }}" class="cover"></p>
