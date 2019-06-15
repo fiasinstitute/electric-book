@@ -281,7 +281,8 @@ works:
           - "xx106"
           - "xx107"
           - "xx108"
-          - "xx109"        nav: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
+          - "xx109"
+        nav: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
           - label: "Frontmatter"
             children:
               - label: "Cover"
