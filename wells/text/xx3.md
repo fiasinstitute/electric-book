@@ -1,7 +1,7 @@
 ---
 title: The world of fact
 ---
-#### The world of fact
+# The world of fact
 
 Necessarily when one begins an inquiry into the fundamental nature of
 oneself and one’s mind and its processes, one is forced into

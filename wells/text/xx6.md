@@ -1,7 +1,7 @@
 ---
 title: Empty terms
 ---
-#### Empty terms
+# Empty terms
 
 Classes in logic are not only represented by circles with a hard firm
 outline, whereas in fact they have no such definite limits, but also

@@ -1,7 +1,7 @@
 ---
 title: The classificatory assumption
 ---
-#### The classificatory assumption
+# The classificatory assumption
 
 After I had studied science and particularly biological science for some
 years, I became a teacher in a school for boys. I found it necessary to

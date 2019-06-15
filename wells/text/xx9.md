@@ -1,7 +1,7 @@
 ---
 title: Planes and dialects of thought
 ---
-#### Planes and dialects of thought
+# Planes and dialects of thought
 
 Finally; the Logician, intent upon perfecting the certitudes of his
 methods rather than upon expressing the confusing subtleties of truth,

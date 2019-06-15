@@ -1,7 +1,7 @@
 ---
 title: Negative terms
 ---
-#### Negative terms
+# Negative terms
 
 There is a particular sort of empty terms that has been and is
 conspicuously dangerous to the thinker, the class of negative terms. The

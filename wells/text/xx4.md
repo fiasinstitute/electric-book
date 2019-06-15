@@ -1,7 +1,7 @@
 ---
 title: Scepticism of the instrument
 ---
-#### Scepticism of the instrument
+# Scepticism of the instrument
 
 At first I took the world of fact as being exactly as I perceived it. I
 believed my eyes. Seeing was believing, I thought. Still more did I
