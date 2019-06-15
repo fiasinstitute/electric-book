@@ -1,3 +1,6 @@
+---
+title: The necessity for metaphysics
+---
 #### The necessity for metaphysics
 
 As a preliminary to that experiment in mutual confession from which this

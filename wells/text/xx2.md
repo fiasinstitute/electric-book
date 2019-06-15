@@ -1,3 +1,6 @@
+---
+title: The resumption of metaphysical enquiry
+---
 #### The resumption of metaphysical enquiry
 
 It seems to me that the Greek mind up to the disaster of the Macedonian

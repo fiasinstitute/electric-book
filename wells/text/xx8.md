@@ -1,3 +1,6 @@
+---
+title: Logic static and life kinetic
+---
 #### Logic static and life kinetic
 
 There is another infirmity of the mind to which my attention has been

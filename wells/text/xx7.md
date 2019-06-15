@@ -1,3 +1,6 @@
+---
+title: Negative terms
+---
 #### Negative terms
 
 There is a particular sort of empty terms that has been and is

@@ -1,3 +1,6 @@
+---
+title: The classificatory assumption
+---
 #### The classificatory assumption
 
 After I had studied science and particularly biological science for some

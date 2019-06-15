@@ -1,3 +1,6 @@
+---
+title: The world of fact
+---
 #### The world of fact
 
 Necessarily when one begins an inquiry into the fundamental nature of

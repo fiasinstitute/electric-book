@@ -1,3 +1,6 @@
+---
+title: Empty terms
+---
 #### Empty terms
 
 Classes in logic are not only represented by circles with a hard firm
