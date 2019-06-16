@@ -323,9 +323,9 @@ works:
                   - label: " Beliefs"
                     file: "xx11"
                   - label: " Summary"
+                    file: "xx12"
               - label: "Book 2. Of Beliefs"
                 children:
-                    file: "xx12"
                   - label: " My primary act of faith"
                     file: "xx13"
                   - label: " On using the name of God"
