@@ -173,6 +173,7 @@ works:
         image: "cover.jpg"
         files:
           - "index"
+          - "contents"
           - "xx1"
           - "xx2"
           - "xx3"
@@ -335,5 +336,5 @@ works:
             file: "xx21"
           - label: "19 Social morality"
             file: "xx22"
-        start-page: "index" # At which file should users start reading?
-        contents-page: "index" # Your contents-page file, if you have one.
+        start-page: "contents" # At which file should users start reading?
+        contents-page: "contents" # Your contents-page file, if you have one.
