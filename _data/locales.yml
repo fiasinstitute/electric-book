@@ -504,9 +504,59 @@ fr:
 # ro:
 #   iso-name: "Romanian"
 #   local-name: ""
-# ru:
-#   iso-name: "Russian"
-#   local-name: ""
+ru:
+  iso-name: "Russian"
+  local-name: "Русский"
+  project:
+    organisation: ""
+    url: ""
+    email: ""
+    name: ""
+    description: "Livres créés avec le flux de travail Electric Book"
+    image: ""
+    credit: "Construit avec [l'Electric Book](http://electricbook.works)"
+  nav:
+    home: "Домашняя"
+    menu: "Содержание"
+    next: "Далее"
+    previous: "Назад"
+    back: "&larr;"
+  input:
+    submit: "Soumettre"
+    send: "Envoyer"
+  search:
+    search-title: "Поиск"
+    placeholder: "Поиск"
+    placeholder-searching: "Поиск..."
+    search-results: "Результаты поиска"
+    results-for-singular: "результат поиска по запросу"
+    results-for-plural: "результаты поиска по запросу"
+    results-for-none: "Ничего не найдено по запросу"
+    jump-to-first: "Перейти к первому результату поиска ↓"
+    notice: ""
+  contact:
+    placeholder:
+      name: "Nom"
+      email: "L’adresse e-mail"
+      message: "Message"
+  questions:
+    check-answers-button: "Vérifier mes réponses"
+    feedback-correct: "Correct!"
+    feedback-incorrect: "Incorrect"
+    feedback-unfinished: "Vous n'avez pas sélectionné toutes les bonnes réponses."
+  quiz:
+    total: "Total"
+  cross-references:
+    pre-page-number: "(страница "
+    post-page-number: ")"
+  account:
+    login: "Connectez-vous"
+    my-account: "Mon compte"
+  annotator:
+    show-sidebar-tooltip-title: "Ouvrir l'outil d'annotation"
+    show-sidebar-tooltip-description: "Cliquer ici pour afficher la barre latérale des annotations. Vous pouvez sélectionner le texte à surligner et à annoter sur cette page."
+    show-annotated-text-tooltip-title: "Surligner les annotations"
+    show-annotated-text-tooltip-description: "Cliquer ici pour afficher ou masquer les annotations surlignées sur cette page."
 # sa:
 #   iso-name: "Sanskrit (Saṁskṛta)"
 #   local-name: ""

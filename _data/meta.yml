@@ -146,6 +146,129 @@ works:
             file: "xx22"
         start-page: "0-3-contents" # At which file should users start reading?
         contents-page: "0-3-contents" # Your contents-page file, if you have one.
+  - directory: "jamal"
+    title: "Ориентация — север"
+    subtitle: ""
+    creator: "Гейдар Джемаль" # E.g. the author
+    contributor: "" # E.g. other contributors
+    subject: "Philosophy, theology" # E.g. BISAC terms (https://bisg.org/page/BISACEdition) or BIC (http://editeur.dyndns.org/bic_categories)
+    description: "An essay on the principle of population, as it affects the future improvement of society with remarks on the speculations of Mr. Godwin, M. Condorcet, and other writers." # E.g. the blurb
+    publisher: "Vodary Paris" # E.g. the publisher, imprint or brand name
+    publisher-url: "https://vodary.fias.fr/book/jamal/"
+    date: "1979-01-31" # YYYY-MM-DD e.g. publication date
+    modified: "2018-10-08" # YYYY-MM-DD e.g. date of last revision
+    type: "Philosophic narrative" # e.g. Novel, Poetry, Memoir
+    identifier: "979-10-97005-00-9" # e.g. ISBN or UUID
+    source: "" # e.g. parent ISBN or ISTC
+    language: "ru" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+    relation: "" # e.g. other edition ISBN
+    coverage: "" # e.g. geographic place or chronological time span
+    rights: "" #"All rights reserved. No part of this book may be reproduced or transmitted in any form or by any electronic or mechanical means, including photocopying and recording, or any other information storage or retrieval system, without written permission from the publisher." # e.g. a copyright statement
+    image: "cover.jpg"
+    products: # Metadata for each product for this title (only use values that override parent metadata)
+      web:
+        date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
+        format: "Digital online" # e.g. Paperback, Digital download, Digital online
+        identifier: "" # e.g. ISBN or UUID
+        image: "cover.jpg"
+        files:
+          - "index"
+          - "0-1-titlepage"
+          - "0-2-copyright"
+          - "0-4-de-auctore"
+          - "0-3-contents"
+          - "xx01"
+          - "xx02"
+          - "xx03"
+          - "xx04"
+          - "xx05"
+          - "xx06"
+          - "xx07"
+          - "xx08"
+          - "xx09"
+          - "xx10"
+          - "xx11"
+          - "xx12"
+          - "xx13"
+          - "xx14"
+          - "xx15"
+          - "xx16"
+          - "xx17"
+          - "xx18"
+          - "xx19"
+          - "xx20"
+          - "xx21"
+          - "xx22"
+          - "xx23"
+          - "xx24"
+          - "xx25"
+        nav: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
+          - label: "Frontmatter"
+            children:
+              - label: "Cover"
+                file: "index"
+              - label: "Title page"
+                file: "0-1-titlepage"
+              - label: "Copyright"
+                file: "0-2-copyright"
+              - label: "De auctore"
+                file: "0-4-de-auctore"
+          - label: "Contents"
+            file: "0-3-contents"
+          - label: "Preface"
+            file: "xx03"
+          - label: "1 . Абсолют"
+            file: "xx1"
+          - label: "2 . Пробуждённость"
+            file: "xx2"
+          - label: "3 . Космос"
+            file: "xx3"
+          - label: "4 . Разум"
+            file: "xx4"
+          - label: "5 . Обскурантизм"
+            file: "xx5"
+          - label: "6 . Иллюзия"
+            file: "xx6"
+          - label: "7 . Ирония"
+            file: "xx7"
+          - label: "8 . Спящий"
+            file: "xx8"
+          - label: "9 . Искусство"
+            file: "xx9"
+          - label: "10 . Ужас"
+            file: "xx10"
+          - label: "11 . Смерть"
+            file: "xx11"
+          - label: "12 . Вагина"
+            file: "xx12"
+          - label: "13 . Благо"
+            file: "xx13"
+          - label: "14 . Мессия"
+            file: "xx14"
+          - label: "15 . Арлекин"
+            file: "xx15"
+          - label: "16 . Миф"
+            file: "xx16"
+          - label: "17 . Зло"
+            file: "xx17"
+          - label: "18 . Чудо"
+            file: "xx18"
+          - label: "19 . Фаллос"
+            file: "xx19"
+          - label: "20 . Парабола"
+            file: "xx20"
+          - label: "21 . Посланник"
+            file: "xx21"
+          - label: "22 . Молния"
+            file: "xx22"
+          - label: "23 . Весна"
+            file: "xx23"
+          - label: "24 . Любовь"
+            file: "xx24"
+          - label: "25 . Север"
+            file: "xx25"
+        start-page: "0-3-contents" # At which file should users start reading?
+        contents-page: "0-3-contents" # Your contents-page file, if you have one.
   - directory: "wells"
     title: "The Nonfiction"
     subtitle: ""
