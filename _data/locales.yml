@@ -512,9 +512,9 @@ ru:
     url: ""
     email: ""
     name: ""
-    description: "Livres créés avec le flux de travail Electric Book"
+    description: "Vodary Paris, online reading platform"
     image: ""
-    credit: "Construit avec [l'Electric Book](http://electricbook.works)"
+    credit: "[Vodary Paris](http://vodary.fias.fr), online reading platform"
   nav:
     home: "Домашняя"
     menu: "Содержание"
